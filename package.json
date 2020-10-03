@@ -6,6 +6,6 @@
   "author": "Satya Rohith <me@satyarohith.com>",
   "license": "MIT",
   "devDependencies": {
-    "netlify-plugin-nimbella": "^0.0.0-dev.17"
+    "netlify-plugin-nimbella": "^1.3.0"
   }
 }
