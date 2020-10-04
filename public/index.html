@@ -27,7 +27,7 @@
 
   <script>
     async function main() {
-      const greet = await fetch('/api/default/greet?name=Melanie');
+      const greet = await fetch('/api/default/greet?name='); // specify a name, default is World
 
       document.getElementById('message').innerHTML = (
         await greet.json()
